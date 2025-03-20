@@ -1,0 +1,33 @@
+1. Perform basic Cloud Storage Operations using Google Drive
+Aim: Perform basic cloud storage operations using Google Drive, including copying files,
+backing up data, synchronizing across devices, and sharing files.
+Software & Tools Required:
+ Google Drive account (free or paid)
+ Google Drive Desktop App (for sync)
+ Web browser (Chrome/Edge/Firefox)
+Experiment Steps:
+Step 1: Copy Files to Google Drive
+1. Open Google Drive in a web browser.
+2. Click “New” → “File Upload” and select a file.
+3. After upload, right-click the file → “Make a copy” to duplicate it.
+4. Verify that both the original and copied files are available in Google Drive.
+Step 2: Backup Files to Google Drive
+1. Install Google Drive for Desktop on your laptop (Download here).
+2. Open the Google Drive application and sign in to your Google account.
+3. Click Preferences → Add Folder and select a local folder to back up.
+4. Choose “Back up to Google Drive” and start the backup process.
+5. Verify that the backed-up files appear in Google Drive.
+Step 3: Synchronization Across Devices
+1. Modify a file in the Google Drive folder on your laptop.
+2. Check Google Drive on another device (mobile/laptop) to see if the updated file appears
+automatically.
+3. Try creating a file from another device and confirm its presence on your laptop.
+Step 4: Sharing Files with Others
+1. Right-click a file in Google Drive and select “Share”.
+2. Enter an email ID to share it with a specific person (View/Edit access) or generate a
+public link.
+3. Test the sharing feature by opening the link in a different account/browser.
+4. Verify if the recipient can access and modify the file (if permitted).
+Expected Outcome:
+✅ Files are successfully copied, backed up, and synchronized across devices.
+✅ Shared files can be accessed based on the defined permissions.
